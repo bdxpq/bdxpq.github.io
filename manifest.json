@@ -1,9 +1,9 @@
 {
-  "id": "com.stremio.fuguos",
-  "logo":"https://fuguos.github.io/hk/img/fugu.png",
+  "id": "io.github.pnxg",
+  "logo":"https://pnxg.github.io/hk/img/fugu.png",
   "version": "1.0.1",
-  "name": "fugu bdix",
-  "description": "fugu bdix Add-on",
+  "name": "BDIX Stream",
+  "description": "BDIX Stream Add-on by fugu",
   "resources": ["catalog", "meta", "stream"],
   "types": ["movie"],
   "catalogs": [
