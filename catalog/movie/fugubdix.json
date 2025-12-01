@@ -21,6 +21,26 @@
         "type": "movie"
     },
     {
+      "id": "tt34876114",
+       "name": "Dhrubor Aschorjo Jibon",
+        "year": 2024,
+        "poster": "https://images.metahub.space/poster/small/tt34876114/img",
+        "posterShape": "regular",
+        "banner": "https://images.metahub.space/background/medium/tt34876114/img",
+        "isFree": true,
+        "type": "movie"
+    },
+    {
+      "id": "tt34247420",
+       "name": "Abar Asibo Firey",
+        "year": 2024,
+        "poster": "https://images.metahub.space/poster/small/tt34247420/img",
+        "posterShape": "regular",
+        "banner": "https://images.metahub.space/background/medium/tt34247420/img",
+        "isFree": true,
+        "type": "movie"
+    },
+    {
       "id": "tt0208092",
        "name": "Snatch",
         "year": 2000,
